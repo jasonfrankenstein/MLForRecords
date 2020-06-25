@@ -6,6 +6,6 @@
 
 ### Supervisors: Greg Rolan, Lan Du
 
-This repository contaisn the source code from my Master of Data Science minor thesis.
+This repository contains the source code from my Master of Data Science minor thesis.
 
 All code modules were developed on Google Colab. 
