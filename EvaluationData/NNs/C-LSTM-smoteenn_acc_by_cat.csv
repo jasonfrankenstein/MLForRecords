@@ -1,0 +1,30 @@
+"label","accuracy"
+"AFDA 20258 - Establishment",0.852941176470588
+"AFDA 20270 - Government Relations",0.584795321637427
+"AFDA 20317 - Procurement",0.6
+"AFDA 20330 - Publication",0.153846153846154
+"AFDA 20336 - Publication",0.2
+"AFDA 20337 - Publication",0.551724137931034
+"AFDA 20339 - Staff Development",0.307692307692308
+"AFDA 20340 (RNA) - Strategic Management",0.0909090909090909
+"AFDA 20342 (D7) - Strategic Management",0.315789473684211
+"AFDA 20344 - Technology and Communications",0.378378378378378
+"AFDA 20443 - Community Relations",0.0857142857142857
+"AFDA 20445 (D10) - Information Management",1
+"AFDA 20448 (D7) - Information Management",0.6
+"AFDA V2 62385 (D3) - Financial Management",0.5
+"AFDA V2 62386 - Financial Management",0.369747899159664
+"AFDA V2 62411 - Legal Services",0.150684931506849
+"AHRC 1802 - Complaints Handling",0.733333333333333
+"AHRC 1803 - Complaints Handling",1
+"AHRC 1804 - Complaint Handling",0
+"AHRC 1805 - Complaints Handling",0.4
+"AHRC 1806 - Human Rights Compliance",0.5
+"AHRC 1807 - Human Rights Compliance",0.275862068965517
+"AHRC 1808 - Human Rights Compliance",0.625
+"AHRC 1809 - Human Rights Compliance",0.19047619047619
+"AHRC 1810 - Human Rights Compliance",0.41025641025641
+"AHRC 1811 - Public Awareness and Education",0.04
+"AHRC 1813 - Public Awareness and Education",0.333333333333333
+"AHRC 1814 - Public Awareness and Education",0.413333333333333
+"AHRC 1815 - Public Awareness and Education",0.75

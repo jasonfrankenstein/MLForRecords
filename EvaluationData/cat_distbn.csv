@@ -1,0 +1,9 @@
+"Metric","Full","Trimmed"
+"count",32,29
+"mean",194.6,214.4
+"std",268.6,274.8
+"minimum",2,18
+"25th percentile",30,49
+"50th percentile",87,103
+"75th percentile",194,197
+"maximum",1123,1123

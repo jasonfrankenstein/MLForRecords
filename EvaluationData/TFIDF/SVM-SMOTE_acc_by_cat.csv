@@ -1,0 +1,30 @@
+"label","accuracy"
+"AFDA 20258 - Establishment",0.882352941176471
+"AFDA 20270 - Government Relations",0.929824561403509
+"AFDA 20317 - Procurement",0.914285714285714
+"AFDA 20330 - Publication",0.384615384615385
+"AFDA 20336 - Publication",0.4
+"AFDA 20337 - Publication",0.827586206896552
+"AFDA 20339 - Staff Development",0.846153846153846
+"AFDA 20340 (RNA) - Strategic Management",0.727272727272727
+"AFDA 20342 (D7) - Strategic Management",0.789473684210526
+"AFDA 20344 - Technology and Communications",0.864864864864865
+"AFDA 20443 - Community Relations",0.914285714285714
+"AFDA 20445 (D10) - Information Management",1
+"AFDA 20448 (D7) - Information Management",0.933333333333333
+"AFDA V2 62385 (D3) - Financial Management",0.833333333333333
+"AFDA V2 62386 - Financial Management",0.941176470588235
+"AFDA V2 62411 - Legal Services",0.986301369863014
+"AHRC 1802 - Complaints Handling",0.733333333333333
+"AHRC 1803 - Complaints Handling",0.833333333333333
+"AHRC 1804 - Complaint Handling",0.2
+"AHRC 1805 - Complaints Handling",0.6
+"AHRC 1806 - Human Rights Compliance",0
+"AHRC 1807 - Human Rights Compliance",0.862068965517241
+"AHRC 1808 - Human Rights Compliance",0.625
+"AHRC 1809 - Human Rights Compliance",0.523809523809524
+"AHRC 1810 - Human Rights Compliance",0.743589743589744
+"AHRC 1811 - Public Awareness and Education",0.946666666666667
+"AHRC 1813 - Public Awareness and Education",0.642857142857143
+"AHRC 1814 - Public Awareness and Education",0.706666666666667
+"AHRC 1815 - Public Awareness and Education",0.5

@@ -1,0 +1,4 @@
+Size,Mean records per category
+Large (>= 350 records),605
+Medium (98-349 records),148
+Small (<98 records),41
